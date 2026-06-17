@@ -1,0 +1,6 @@
+{
+  "name": "Recipe Finder & Cookbook",
+  "description": "Discover food-forward recipes, manage a personal cookbook, and generate custom meals using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
